@@ -1,0 +1,15 @@
+/Users/irina/Desktop/Lessen1/bin/Debug/net6.0/Lessen1
+/Users/irina/Desktop/Lessen1/bin/Debug/net6.0/Lessen1.deps.json
+/Users/irina/Desktop/Lessen1/bin/Debug/net6.0/Lessen1.runtimeconfig.json
+/Users/irina/Desktop/Lessen1/bin/Debug/net6.0/Lessen1.dll
+/Users/irina/Desktop/Lessen1/bin/Debug/net6.0/Lessen1.pdb
+/Users/irina/Desktop/Lessen1/obj/Debug/net6.0/Lessen1.csproj.AssemblyReference.cache
+/Users/irina/Desktop/Lessen1/obj/Debug/net6.0/Lessen1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/irina/Desktop/Lessen1/obj/Debug/net6.0/Lessen1.AssemblyInfoInputs.cache
+/Users/irina/Desktop/Lessen1/obj/Debug/net6.0/Lessen1.AssemblyInfo.cs
+/Users/irina/Desktop/Lessen1/obj/Debug/net6.0/Lessen1.csproj.CoreCompileInputs.cache
+/Users/irina/Desktop/Lessen1/obj/Debug/net6.0/Lessen1.dll
+/Users/irina/Desktop/Lessen1/obj/Debug/net6.0/refint/Lessen1.dll
+/Users/irina/Desktop/Lessen1/obj/Debug/net6.0/Lessen1.pdb
+/Users/irina/Desktop/Lessen1/obj/Debug/net6.0/Lessen1.genruntimeconfig.cache
+/Users/irina/Desktop/Lessen1/obj/Debug/net6.0/ref/Lessen1.dll
